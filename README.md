@@ -1,4 +1,4 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# [pyskandarova](https://pyskandarova.github.io)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
